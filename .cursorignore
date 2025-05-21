@@ -1,3 +1,9 @@
 build
 pnpm-lock.yaml
 node_modules
+LICENSE
+memory/dist
+package-lock.json
+memory/package-lock.json
+memory/node_modules
+memory/pnpm-lock.yaml
