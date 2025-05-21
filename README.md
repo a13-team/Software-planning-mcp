@@ -1,11 +1,4 @@
 # Software Planning Tool 🚀
-[![smithery badge](https://smithery.ai/badge/@NightTrek/Software-planning-mcp)](https://smithery.ai/server/@NightTrek/Software-planning-mcp)
-
-A Model Context Protocol (MCP) server designed to facilitate software development planning through an interactive, structured approach. This tool helps break down complex software projects into manageable tasks, track implementation progress, and maintain detailed development plans.
-
-<a href="https://glama.ai/mcp/servers/a35c7qc7ie">
-  <img width="380" height="200" src="https://glama.ai/mcp/servers/a35c7qc7ie/badge" alt="Software Planning Tool MCP server" />
-</a>
 
 ## Features ✨
 
@@ -35,7 +28,7 @@ pnpm install
 ```bash
 pnpm run build
 ```
-4. Add to your MCP settings configuration (typically located at `~/Library/Application Support/Code/User/globalStorage/saoudrizwan.claude-dev/settings/cline_mcp_settings.json`):
+4. Add to your MCP settings configuration (typically located at `~/cursor/mcp.json`):
 ```json
 {
   "mcpServers": {
